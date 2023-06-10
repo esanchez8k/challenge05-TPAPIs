@@ -26,7 +26,7 @@ THEN the saved events persist
 
 ## Screenshot
 
-![Mock-Up Screenshot](assets/images/demo.png)
+![Mock-Up Screenshot](./assets/images/demo.png)
 
 ## Deployed Application and Github Link
 
