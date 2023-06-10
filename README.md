@@ -30,7 +30,6 @@ THEN the saved events persist
 
 ## Deployed Application and Github Link
 
-Deployed App Link: 
+Deployed App Link: https://esanchez8k.github.io/challenge05-TPAPIs/
 
-
-Github Page:
+Github Page: https://github.com/esanchez8k/challenge05-TPAPIs/tree/main
